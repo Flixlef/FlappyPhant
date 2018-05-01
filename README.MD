@@ -33,5 +33,5 @@ TODO
 
 ## Legal
 
-All rights reserved. If you want to use some of the code or the assets for personal uses feel free to.
+MIT, see License
 
